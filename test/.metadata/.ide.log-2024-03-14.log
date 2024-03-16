@@ -1,0 +1,89 @@
+2024-03-16 13:52:16,155 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2024-03-16 13:52:16,535 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-03-16 13:52:16,625 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-03-16 13:52:28,828 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-03-16 13:52:28,890 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-03-16 13:52:29,039 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-03-16 13:53:03,719 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-03-16 15:53:28,428 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 315678992 Bytes (765460480)
+2024-03-16 15:53:45,543 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 412670224 Bytes (765460480)
+2024-03-16 15:53:46,094 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 482662688 Bytes (765460480)
+2024-03-16 15:53:48,696 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-03-16 15:53:48,696 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-03-16 15:53:48,696 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-03-16 15:53:48,696 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-03-16 15:53:48,697 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-03-16 15:53:48,697 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-03-16 15:53:48,697 [INFO] CodeGenerator:807 - code generatio: config db path: /opt/st/stm32cubeide_1.14.0_2/plugins/com.st.stm32cube.common.mx_6.10.0.202311202037//db/
+2024-03-16 15:53:48,839 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/license.tmp_save
+2024-03-16 15:53:48,921 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/license.tmp
+2024-03-16 15:53:48,938 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Src/gpio.c_save
+2024-03-16 15:53:49,005 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Src/gpio.c
+2024-03-16 15:53:49,006 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Inc/gpio.h_save
+2024-03-16 15:53:49,061 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Inc/gpio.h
+2024-03-16 15:53:49,155 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-03-16 15:53:49,159 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_inc.tmp_save
+2024-03-16 15:53:49,211 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_inc.tmp
+2024-03-16 15:53:49,213 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-03-16 15:53:49,264 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_kernelInit.tmp
+2024-03-16 15:53:49,266 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-03-16 15:53:49,316 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_kernelStart.tmp
+2024-03-16 15:53:49,317 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_typedefs.tmp_save
+2024-03-16 15:53:49,370 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_typedefs.tmp
+2024-03-16 15:53:49,372 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_vars.tmp_save
+2024-03-16 15:53:49,423 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_vars.tmp
+2024-03-16 15:53:49,425 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_pfp.tmp_save
+2024-03-16 15:53:49,475 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_pfp.tmp
+2024-03-16 15:53:49,477 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-03-16 15:53:49,530 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_obj_creat.tmp
+2024-03-16 15:53:49,532 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_default_thread.tmp_save
+2024-03-16 15:53:49,583 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_default_thread.tmp
+2024-03-16 15:53:49,585 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_threads.tmp_save
+2024-03-16 15:53:49,638 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_threads.tmp
+2024-03-16 15:53:49,644 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-03-16 15:53:49,646 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_inc.tmp_save
+2024-03-16 15:53:49,698 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_inc.tmp
+2024-03-16 15:53:49,699 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_kernelInit.tmp_save
+2024-03-16 15:53:49,750 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_kernelInit.tmp
+2024-03-16 15:53:49,751 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_kernelStart.tmp_save
+2024-03-16 15:53:49,801 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_kernelStart.tmp
+2024-03-16 15:53:49,802 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_typedefs.tmp_save
+2024-03-16 15:53:49,856 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_typedefs.tmp
+2024-03-16 15:53:49,857 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_vars.tmp_save
+2024-03-16 15:53:49,910 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_vars.tmp
+2024-03-16 15:53:49,911 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_pfp.tmp_save
+2024-03-16 15:53:49,961 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_pfp.tmp
+2024-03-16 15:53:49,962 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_obj_creat.tmp_save
+2024-03-16 15:53:50,012 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_obj_creat.tmp
+2024-03-16 15:53:50,013 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_default_thread.tmp_save
+2024-03-16 15:53:50,064 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_default_thread.tmp
+2024-03-16 15:53:50,066 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_threads.tmp_save
+2024-03-16 15:53:50,123 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/rtos_threads.tmp
+2024-03-16 15:53:50,125 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Inc/FreeRTOSConfig.h_save
+2024-03-16 15:53:50,199 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Inc/FreeRTOSConfig.h
+2024-03-16 15:53:50,201 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Src/freertos.c_save
+2024-03-16 15:53:50,263 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Src/freertos.c
+2024-03-16 15:53:50,266 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Src/usart.c_save
+2024-03-16 15:53:50,378 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Src/usart.c
+2024-03-16 15:53:50,380 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Inc/usart.h_save
+2024-03-16 15:53:50,504 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Inc/usart.h
+2024-03-16 15:53:50,508 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Src/stm32f4xx_it.c_save
+2024-03-16 15:53:50,642 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Src/stm32f4xx_it.c
+2024-03-16 15:53:50,643 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Inc/stm32f4xx_it.h_save
+2024-03-16 15:53:50,694 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Inc/stm32f4xx_it.h
+2024-03-16 15:53:50,696 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Src/stm32f4xx_hal_msp.c_save
+2024-03-16 15:53:50,767 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Src/stm32f4xx_hal_msp.c
+2024-03-16 15:53:50,768 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/system.tmp_save
+2024-03-16 15:53:50,818 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/MXTmpFiles/system.tmp
+2024-03-16 15:53:50,820 [INFO] CodeEngine:311 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Inc/stm32f4xx_hal_conf.h_save
+2024-03-16 15:53:50,877 [INFO] CodeEngine:335 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Inc/stm32f4xx_hal_conf.h
+2024-03-16 15:53:50,904 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Inc/main.h_save
+2024-03-16 15:53:50,967 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Inc/main.h
+2024-03-16 15:53:50,968 [INFO] CodeEngine:255 - oldGeneratedFile, /home/fatemeh/Documents/Kulak/test/test/Core/Src/main.c_save
+2024-03-16 15:53:51,036 [INFO] CodeEngine:279 - Generated code: /home/fatemeh/Documents/Kulak/test/test/Core/Src/main.c
+2024-03-16 15:53:51,504 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 82mS.
+2024-03-16 15:53:51,506 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-03-16 15:53:51,698 [INFO] ConfigFileManager:1495 - The Die is : DIE433
+2024-03-16 15:53:55,325 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 3818mS.
+2024-03-16 15:53:55,326 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-03-16 15:53:55,327 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.

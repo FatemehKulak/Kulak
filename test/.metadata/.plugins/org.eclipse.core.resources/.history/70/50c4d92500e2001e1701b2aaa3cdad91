@@ -1,0 +1,21 @@
+/*
+ * delay.c
+ *
+ *  Created on: Mar 14, 2024
+ *      Author: fatemeh
+ */
+
+#include "delay.h"
+
+uint32_t GetTick(void)
+{
+	return uwTick;
+}
+
+uin8_t Delay_ms(uint32_t Tick, uint32_t Delay)
+{
+if ((GetTick()-Tick) > Delay)
+	return 1;
+else
+	return 0;
+}
