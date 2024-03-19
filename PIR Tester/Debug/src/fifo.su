@@ -1,0 +1,14 @@
+fifo.c:20:6:fifo_set_front_rear	16	static
+fifo.c:25:7:fifo_title	16	static
+fifo.c:28:9:fifo_aval	4	static
+fifo.c:31:9:fifo_req	32	static
+fifo.c:46:10:fifo_get_rear	16	static
+fifo.c:49:10:fifo_get_front	16	static
+fifo.c:53:9:fifo_push	16	static
+fifo.c:61:9:fifo_full	16	static
+fifo.c:67:9:fifo_empty	16	static
+fifo.c:73:10:fifo_pop	16	static
+fifo.c:81:10:fifo_pop_stay	24	static
+fifo.c:90:6:fifo_free_elem	16	static
+fifo.c:94:10:fifo_size	16	static
+fifo.c:102:6:fifo_clear	16	static

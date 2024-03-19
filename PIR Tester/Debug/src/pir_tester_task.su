@@ -1,0 +1,13 @@
+pir_tester_task.c:45:6:USART3_IRQHandler	24	static
+pir_tester_task.c:60:6:USART1_IRQHandler	24	static
+pir_tester_task.c:81:10:requested_start	4	static
+pir_tester_task.c:89:10:requested_stop	4	static
+pir_tester_task.c:98:6:uart_transmit	24	static
+pir_tester_task.c:105:7:board_switch	16	static
+pir_tester_task.c:172:9:board_state	4	static
+pir_tester_task.c:177:6:tester_task	24	static
+pir_tester_task.c:248:12:cmd_aval	16	static
+pir_tester_task.c:257:6:cmd_req	16	static
+pir_tester_task.c:262:6:task_dbg_mng	32	static
+pir_tester_task.c:317:6:task_test	24	static
+pir_tester_task.c:448:6:task_init	8	static

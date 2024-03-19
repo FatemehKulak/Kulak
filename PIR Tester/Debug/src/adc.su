@@ -1,0 +1,7 @@
+adc.c:11:9:adc_ready	16	static
+adc.c:18:6:adc_stop	16	static
+adc.c:23:6:adc_start	16	static
+adc.c:27:6:adc_set_channel	16	static
+adc.c:31:10:adc_value	16	static
+adc.c:35:6:adc_init	16	static
+adc.c:50:7:adc_convert	24	static

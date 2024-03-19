@@ -1,0 +1,4 @@
+adc_mng.c:14:9:adc_add_channel	16	static
+adc_mng.c:19:6:adc_mng_init	4	static
+adc_mng.c:23:10:adc_mng_value	16	static
+adc_mng.c:28:6:task_adc_mng	16	static

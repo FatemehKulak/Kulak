@@ -1,0 +1,12 @@
+core_cm3.h:930:22:NVIC_EnableIRQ	16	static
+core_cm3.h:1014:22:NVIC_SetPriority	16	static
+core_cm3.h:1139:26:SysTick_Config	16	static
+system_int.c:4:6:power_selection_pin_init	16	static
+system_int.c:44:6:mux_pin_init	16	static
+system_int.c:63:6:nc_pin_init	16	static
+system_int.c:98:6:debug_init	32	static
+system_int.c:138:6:debugc	16	static
+system_int.c:143:6:debugs	24	static
+system_int.c:149:6:tester_adc_init	8	static
+system_int.c:190:6:adc_run	24	static
+system_int.c:205:6:system_init	24	static
